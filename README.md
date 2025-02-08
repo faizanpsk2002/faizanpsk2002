@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Momin Mohammed Faizan</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Faizan</h1>
+<h3 align="center">A passionate cloud Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento_still_2x.gif?compress=1&resize=400x300" >
 
